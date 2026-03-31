@@ -7,11 +7,11 @@ Digital Literacy Project – CSE0001
 
 Student Details
 
-Name: Aditya kumar
+Name: Aman kumar
 
-Registration Number: 25BCY10173
+Registration Number: 25BCE10603
 
-Course: B.Tech CSE (Cyber Security)
+Course: B.Tech CSE (Core)
 
 University: VIT Bhopal University
 
